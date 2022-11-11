@@ -64,6 +64,11 @@ Nori: Where is it you're from, anyway?
   7. در رابطه با [Pep 572](https://peps.python.org/pep-0572/) تحقیق کنید و در یک مثال با reduce به کار ببرید.
   8. در رابطه با [PEP 584](https://peps.python.org/pep-0584/) در دیکشنری تحقیق کنید و یک مثال بزنید.
   9. در مورد توابع flatmap, reduceL, reduceR تحقیق کنید و مثال بزنید.
+  10. در مورد موارد زیر در فایل تحقیق کنید
+  - mode= r+
+  - mode= w+
+  
+  11. در مورد protected در ارث بری تحقیق کنیدو یک مثال بزنید.
 
 
 
